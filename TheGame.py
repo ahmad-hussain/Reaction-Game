@@ -1,3 +1,6 @@
+# Reaction Game 
+# Ahmad Hussain 2017
+
 from gpiozero import LED, Button
 import time 
 from time import sleep
